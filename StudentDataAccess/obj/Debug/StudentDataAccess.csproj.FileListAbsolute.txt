@@ -1,0 +1,12 @@
+E:\Projects\GradeBookApi\StudentDataAccess\bin\Debug\StudentDataAccess.dll.config
+E:\Projects\GradeBookApi\StudentDataAccess\bin\Debug\StudentDataAccess.dll
+E:\Projects\GradeBookApi\StudentDataAccess\bin\Debug\StudentDataAccess.pdb
+E:\Projects\GradeBookApi\StudentDataAccess\bin\Debug\EntityFramework.dll
+E:\Projects\GradeBookApi\StudentDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+E:\Projects\GradeBookApi\StudentDataAccess\bin\Debug\EntityFramework.xml
+E:\Projects\GradeBookApi\StudentDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+E:\Projects\GradeBookApi\StudentDataAccess\obj\Debug\StudentDataAccess.csproj.CoreCompileInputs.cache
+E:\Projects\GradeBookApi\StudentDataAccess\obj\Debug\StudentDataAccess.csproj.CopyComplete
+E:\Projects\GradeBookApi\StudentDataAccess\obj\Debug\StudentDataAccess.dll
+E:\Projects\GradeBookApi\StudentDataAccess\obj\Debug\StudentDataAccess.pdb
+E:\Projects\GradeBookApi\StudentDataAccess\obj\Debug\StudentDataAccess.csprojAssemblyReference.cache

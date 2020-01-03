@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GradeBookApi", "GradeBookApi\GradeBookApi.csproj", "{BDB1E385-B435-41C0-9143-792799159CD3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentDataAccess", "StudentDataAccess\StudentDataAccess.csproj", "{7D129137-FFB0-4EC0-8570-3C7743F7D426}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDB1E385-B435-41C0-9143-792799159CD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDB1E385-B435-41C0-9143-792799159CD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDB1E385-B435-41C0-9143-792799159CD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDB1E385-B435-41C0-9143-792799159CD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D129137-FFB0-4EC0-8570-3C7743F7D426}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D129137-FFB0-4EC0-8570-3C7743F7D426}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D129137-FFB0-4EC0-8570-3C7743F7D426}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D129137-FFB0-4EC0-8570-3C7743F7D426}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {640F6CF5-FA4B-4DCB-AA1A-59994E3CEE90}
+	EndGlobalSection
+EndGlobal
